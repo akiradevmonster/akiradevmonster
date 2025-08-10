@@ -1,8 +1,4 @@
-Akira Yamamoto
-
-## Hi there 👋
-
-Akira Yamamoto
+## Akira Yamamoto | C#|Web Senior Developer
 
 <br/>
 <table align="center">
