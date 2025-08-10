@@ -129,8 +129,8 @@ Here are some ideas to get you started:
       <br>GraphQL
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="PostgreSQL" />
+      <br>Supabase
     </td>
  </tr>
 </table>
