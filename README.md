@@ -1,6 +1,6 @@
 ## Akira Yamamoto
 
-## C# | Web Senior Developer
+## C# & Web Senior Developer
 
 <br/>
 <table align="center">
