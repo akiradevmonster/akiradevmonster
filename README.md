@@ -49,8 +49,8 @@ Here are some ideas to get you started:
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
+        <img src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="65" height="65" />
+      <br>.NET
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
