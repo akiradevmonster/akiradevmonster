@@ -1,4 +1,4 @@
-## Akira Yamamoto
+Akira Yamamoto
 
 ## Hi there 👋
 
