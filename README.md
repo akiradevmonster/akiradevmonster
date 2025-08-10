@@ -59,7 +59,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="65" height="65" />
       <br>Django
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
