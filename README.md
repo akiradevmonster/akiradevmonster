@@ -2,6 +2,8 @@ Akira Yamamoto
 
 ## Hi there 👋
 
+Akira Yamamoto
+
 <br/>
 <table align="center">
   <tr>
